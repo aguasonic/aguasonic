@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[LinkedIn](https://www.linkedin.com/in/aguasonic/)
+[AGUASONIC](https://aguasonic.com/)
 
 <!---
 aguasonic/aguasonic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
